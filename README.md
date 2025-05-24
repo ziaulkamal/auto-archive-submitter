@@ -64,4 +64,4 @@ Visit `https://web.archive.org/web/*/yourdomain.com` to see all archived version
 
 ## Support
 
-For support or feature requests, please [open an issue on GitHub](https://github.com/yourusername/auto-archive-submitter/issues)
+For support or feature requests, please [open an issue on GitHub](https://github.com/ziaulkamal/auto-archive-submitter/issues)
